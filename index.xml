@@ -7,5 +7,21 @@
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
     <atom:link href="https://sofiabaroudi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://sofiabaroudi.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sofiabaroudi.github.io/resume/</guid>
+      <description>&lt;p&gt;title  = &amp;ldquo;Résumé&amp;rdquo;
+url    = &amp;ldquo;/Sofia_Baroudi_CV.pdf&amp;rdquo;&lt;br&gt;
+menu   = &amp;ldquo;main&amp;rdquo;                &lt;br&gt;
+weight = 1                     &lt;br&gt;
+draft  = false                 &lt;br&gt;
+outputs = [&amp;ldquo;HTML&amp;rdquo;]    +++
+date = &amp;lsquo;2025-08-05T16:53:23-07:00&amp;rsquo;
+draft = true
+title = &amp;lsquo;Resume&amp;rsquo;
++++&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
