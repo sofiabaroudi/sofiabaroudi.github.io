@@ -2,36 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Photography on Sofia Baroudi</title>
-    <link>http://localhost:1313/photography/</link>
+    <link>https://sofiabaroudi.github.io/photography/</link>
     <description>Recent content in Photography on Sofia Baroudi</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 12 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/photography/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sofiabaroudi.github.io/photography/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Snu Stan Topez</title>
-      <link>http://localhost:1313/photography/snu-stan-topez/</link>
+      <title>Snu Stan Tropez</title>
+      <link>https://sofiabaroudi.github.io/photography/snu-stan-topez/</link>
       <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photography/snu-stan-topez/</guid>
+      <guid>https://sofiabaroudi.github.io/photography/snu-stan-topez/</guid>
       <description></description>
     </item>
     <item>
       <title>Mami in Capri</title>
-      <link>http://localhost:1313/photography/capri2/</link>
+      <link>https://sofiabaroudi.github.io/photography/capri2/</link>
       <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photography/capri2/</guid>
+      <guid>https://sofiabaroudi.github.io/photography/capri2/</guid>
       <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/photography/mam_incapri/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photography/mam_incapri/</guid>
-      <description>&lt;p&gt;title: &amp;ldquo;Mam in Capri&amp;rdquo;
-date: 2023-07-18            # or any date you like
-cover:
-image: &amp;ldquo;cover.JPG&amp;rdquo;        # exact file name from step 3
-caption: &amp;ldquo;Capri, July 2023&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
