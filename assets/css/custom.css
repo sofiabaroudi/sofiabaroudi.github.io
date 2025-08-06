@@ -1,0 +1,14 @@
+/* ── Center the profile buttons in a single row ───────────────────── */
+.home-profile .profile-buttons {
+  display: flex;
+  flex-wrap: nowrap;       /* keep everything on one line */
+  justify-content: center; /* center in the page */
+  gap: 0.5rem;             /* even spacing */
+}
+
+/* On very narrow screens (< 400 px) let them wrap so nothing overflows */
+@media (max-width: 400px) {
+  .home-profile .profile-buttons {
+    flex-wrap: wrap;
+  }
+}

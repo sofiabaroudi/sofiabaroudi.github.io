@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sofiabaroudi.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://sofiabaroudi.github.io/photography/</loc>
+    <loc>http://localhost:1313/photography/</loc>
   </url><url>
-    <loc>https://sofiabaroudi.github.io/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
   </url><url>
-    <loc>https://sofiabaroudi.github.io/Sofia_Baroudi_CV.pdf</loc>
+    <loc>http://localhost:1313/Sofia_Baroudi_CV.pdf</loc>
   </url><url>
-    <loc>https://sofiabaroudi.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://sofiabaroudi.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://sofiabaroudi.github.io/writings/</loc>
+    <loc>http://localhost:1313/writings/</loc>
   </url>
 </urlset>
