@@ -1,0 +1,11 @@
+.home-profile .profile-buttons{
+  display:flex;
+  flex-wrap:nowrap;          /* never wrap unless phone-sized */
+  justify-content:center;    /* centre the row */
+  gap:.5rem;                 /* even spacing */
+}
+
+/* allow wrap only on very narrow phones */
+@media (max-width:400px){
+  .home-profile .profile-buttons{flex-wrap:wrap;}
+}
