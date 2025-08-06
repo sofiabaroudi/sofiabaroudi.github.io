@@ -15,5 +15,16 @@
       <guid>https://sofiabaroudi.github.io/photography/snu-stan-topez/</guid>
       <description></description>
     </item>
+    <item>
+      <title></title>
+      <link>https://sofiabaroudi.github.io/photography/mam_incapri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sofiabaroudi.github.io/photography/mam_incapri/</guid>
+      <description>&lt;p&gt;title: &amp;ldquo;Mam in Capri&amp;rdquo;
+date: 2023-07-18            # or any date you like
+cover:
+image: &amp;ldquo;cover.JPG&amp;rdquo;        # exact file name from step 3
+caption: &amp;ldquo;Capri, July 2023&amp;rdquo;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
